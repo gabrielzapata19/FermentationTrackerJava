@@ -4,7 +4,7 @@ Fermentation Tracker
 This is the backend for my fermentation tracker. 
 
 A user will be able to:
-  1.Login with password and unique Username
+  1.Login with password and unique username
   2.Create a fermentation project. A project will have the following features:
     a.Create Batches and have timestamp of start and end time, and description
     b.Description of batch will have user uploaded images, pH, flavor, starter feed details. Feed details are as follows:
